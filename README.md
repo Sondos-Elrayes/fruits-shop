@@ -8,7 +8,10 @@ Designed as part of a front-end learning project.
 
 ## 📽️ Demo Video
 
-▶️ [Watch fruits shop demo](https://github.com/Sondos-Elrayes/fruits-shop/blob/master/Fruits%20Shop%20-%20Google%20Chrome%202025-03-07%2013-54-38.mp4)
+
+
+https://github.com/user-attachments/assets/9925a6d4-d680-4fd1-b88a-9aaa611626ff
+
 
 
 ---
