@@ -21,7 +21,10 @@ Designed as part of a front-end learning project.
 
 
 
-https://github.com/user-attachments/assets/9925a6d4-d680-4fd1-b88a-9aaa611626ff
+
+
+https://github.com/user-attachments/assets/02b755d3-8610-4343-a86b-0720ef5afea3
+
 
 
 
